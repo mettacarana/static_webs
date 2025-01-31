@@ -1,0 +1,80 @@
+body{
+    font-family: sans-serif;
+    margin: 10px auto;
+    width: 80%;
+    background-color: #FBF4DB;
+    
+  }
+  header{
+    background-color: brown;
+    color: white;
+    width: 75%;
+    margin: auto auto;
+
+  }
+  h1,h2{
+    margin-left: 5px;
+    padding-top: 5px;
+    text-align: left;
+  }
+
+  .t_info{
+    width: 70%;
+    margin: auto auto;
+    margin-top: 50px;
+    border-top: 1px solid black;
+  }
+  
+  #image{
+    max-width: 600px;
+    height: auto;
+    aspect-ratio: 6 / 3.3;
+  }
+  img{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0;
+  }
+  #img-caption{
+    width: 80%;
+    margin: auto auto;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .text{
+    max-width: 70%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 1px 20px 1px 20px;
+    background-color: #FDE7BB;
+    text-align: justify;
+    font-size: 14px;
+  }
+
+  h3{
+    font-size: 16px;
+  }
+  
+  #tribute-link:hover{
+    background-color: #AA5486;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .owner{
+    box-sizing: border-box;
+    margin-top: 40px;
+  }
+  
+  footer p{
+    text-align: center;
+    font-size: 10px;
+    text-decoration: none;
+  }
+  
+  #own_link:hover{
+    color: #219B9D;
+  }
+  
